@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+		<head>
+				<title> Ben Battle </title>
+		</head>
+		<body>
+				<h1>Education</h1>
+					<p> Tufts University, Medford, MA 
+						Bachelor of Science, expected May 2017 
+						Major:  Computer Science     Minor:  Entrepreneurial Leadership</p>
+
+				<h1>Relevant Coursework</h1>
+					<p>Current:  Web Programming (JavaScript, CSS, jQuery), Computation Theory, Entrepreneurial Marketing <br>
+					Completed:  Data Structures, Machine Structure & Assembly Language Programming, Discrete Math, Entrepreneurship and Business Planning, Entrepreneurial Finance, Technical and Managerial Communication</p>
+
+				<h1>Professional Experience</h1>
+				<p><b>Web Development Team Intern</b><br>
+				WMPH Vacations, Delray Beach, FL, May – July 2014
+				•	Performed quality assurance testing on company websites, mobile site and iPad app 
+				•	Executed daily build, pushed files to production on remote server, performed file security checks, performed audio file checks
+				•	Managed iPad app content, image database content, funnel report data using VB macros in Excel, and 404 links 
+				•	Reported results of research and analysis of competitor websites in presentation to Chief Executive Officer and stakeholders </p>
+
+				<h1> Skills </h1>
+				<p>Programming Languages:  C, C++, HTML, VB<br>
+					Operating Systems:  Microsoft Windows, Unix<br>
+					Tools:  GCC/G++, gdb, valgrind, Visual Studio, Excel, Snagit, Jing </p>
+		</body>
+</html>
+
+
+
